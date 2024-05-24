@@ -17,4 +17,3 @@ Minimum mesafe: 2.83
 Katkıda Bulunma
 Bu projeyle ilgili herhangi bir katkıda bulunmak isterseniz, lütfen bir çekme isteği (pull request) gönderin. Her türlü geri bildirimi memnuniyetle karşılıyoruz!
 
-Bu README dosyası, projenin temel işleyişini anlatan basit bir örnektir. Projenizi daha ayrıntılı bir şekilde açıklamak için gereksinimlerinize uygun bir README oluşturabilirsiniz. Başarılar! 🚀
